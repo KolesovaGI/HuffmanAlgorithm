@@ -24,7 +24,7 @@ namespace HuffmanAlgorithm
                 Console.Write((bit ? 1 : 0) + "");
             }
             Console.WriteLine();
-            // رشته اصلی
+           
             string decoded = huffmanTree.Decode(encoded);
             Console.WriteLine("Декодирование : " + "'" + decoded + "'" + ", Символов в строке :  " + decoded.Length);
             Console.WriteLine("\n\n");
