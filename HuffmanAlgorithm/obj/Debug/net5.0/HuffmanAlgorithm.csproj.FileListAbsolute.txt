@@ -1,0 +1,16 @@
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.csproj.AssemblyReference.cache
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.AssemblyInfoInputs.cache
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.AssemblyInfo.cs
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.exe
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.deps.json
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.runtimeconfig.json
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.runtimeconfig.dev.json
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.dll
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\ref\HuffmanAlgorithm.dll
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.pdb
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.dll
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\ref\HuffmanAlgorithm.dll
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.pdb
+D:\Учёба\2 курс\Шарпы\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.genruntimeconfig.cache
